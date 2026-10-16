@@ -37,24 +37,27 @@ The project focuses on launching a Linux virtual server on Amazon EC2, accessing
 ### 1. EC2 Instance Running
 
 The EC2 instance is running, and its status checks have passed.
-
+/screenshots/01-ec2-instance-running.png
 
 
 ### 2. EC2 Connection Configuration
 
 The AWS console displays the connection settings and security group associated with the instance.
+/screenshots/02-ec2-connect-settings.png.png
 
 
 
 ### 3. Ubuntu Terminal Access
 
 Successfully accessed the Ubuntu Linux environment through the browser-based EC2 connection.
+/screenshots/03-ssh-connection.png
 
 
 
 ### 4. EC2 Instances Dashboard
 
 The AWS EC2 dashboard displays the instance and its current running state.
+/screenshots/04-ec2-instances-list.png
 
 
 
